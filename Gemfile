@@ -13,7 +13,7 @@ gem 'rspec'
 gem 'rack-test'
 gem 'database_cleaner', git: 'https://github.com/bmabey/database_cleaner.git'
 gem 'require_all'
-
+gem 'selenium-webdriver'
 
 group :development do
   gem "sqlite3"
